@@ -1,6 +1,6 @@
-Para cada imagen, usá las teclas 'J' y 'K' para indicar tu respuesta. 
+Para cada imagen, usá las flechas para indicar tu respuesta. 
 
-Presioná 'J' si la imagen es un objeto realista o 'K' si no es realista. 
+Presioná la flecha IZQUIERDA si la imagen es un objeto realista o la flecha DERECHA si no es realista. 
 
 
 Presioná ESPACIO para continuar.
